@@ -1,3 +1,4 @@
+123456
 *.p2p.huya.com
 *.snssdk.com
 click.mz.simba.taobao.com
