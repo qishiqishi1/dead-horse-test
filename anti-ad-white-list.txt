@@ -1,4 +1,4 @@
-45678911111
+
 *.p2p.huya.com
 *.snssdk.com
 click.mz.simba.taobao.com
