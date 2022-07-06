@@ -1,4 +1,4 @@
-
+app.chat.xiaomi.net
 *.p2p.huya.com
 *.snssdk.com
 click.mz.simba.taobao.com
